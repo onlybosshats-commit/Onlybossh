@@ -1,5 +1,5 @@
 const SUPABASE_URL = "https://evihbqsrcmxugeqpolwh.supabase.co";
-const SUPABASE_KEY = "PON_AQUI_TU_NUEVA_PUBLISHABLE_KEY";
+const SUPABASE_KEY = "sb_publishable_xspmsb3snbFURMPshbb2Uw_H3vO0Ot-";
 
 const INSTAGRAM = "https://www.instagram.com/onlybosshats/";
 
